@@ -17,3 +17,4 @@ public class HelloModelController {
 		return "helloThymeleaf";
 	}
 }
+
